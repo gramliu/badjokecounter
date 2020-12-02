@@ -1,0 +1,11 @@
+{
+  "name": "BadJokeCounterBot",
+  "version": "1.0.0",
+  "description": "Count your bad jokes",
+  "main": "bjcbot.js",
+  "author": "Gram Liu",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
